@@ -3,5 +3,6 @@
 - Home Page do Estúdio de Jogos Digitais o qual faço parte e fundei:
 
 <div>
-  <img src="https://github.com/JoaoDragon47/JIKStudiosHomePage/blob/main/JIKStudiosHomePage/src/img/preview.png">
+  <img src="https://joaodragon47.github.io/JIKStudiosHomePage/src/img/preview.png">
+  <a src="https://joaodragon47.github.io/JIKStudiosHomePage/" target="_blank">LINK SITE</a>
 </div>
